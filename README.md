@@ -45,6 +45,8 @@ My favorite 3 concepts from the book:
 
 ####What makes a good business idea?
 
+*Wait for Answers*
+
 1. **The Engineering Question**:
 Can you create breakthrough technology (vs. incremental improvement)? This is probably the most important concept. If your idea is a tiny incremental improvement that doesn't fundamentally change a market, its not worth starting a business over.
 
@@ -109,14 +111,6 @@ Healthcare.gov is an example of the catastrophic effect planning has on software
 
 So in short: Agile development is a methodology that tries to break down software projects into a series of features and only worry about implementing one feature at a time. The developers have weekly meetings and only plan as far as one week or one month - they just plan what they'll be implementing next. When you marry agile to lean, you get a solid business cranking out MVPs (minimum viable products) faster and faster and getting better at iterating towards success.
 
-##Resources
-1. fvi.edu/blog - we have a whole startup series of blog posts.  
-2. fvi.edu/coders_corner - check out the drill sergeant app.  
-3. Me. Don't hesitate to contact me.  
-4. The lean Startup by Eric Ries  
-5. Growth Hacker Marketing by Ryan Holiday  
-6. Zero to One by Peter Thiel  
-7. Scrum: The Art of Doing Twice the Work in Half the Time, by Jeff Sutherland  
 
 ##Make it actionable for kids
 Let's brainstorm some ideas on how we are going to trick kids into learning this.
@@ -125,3 +119,13 @@ Let's brainstorm some ideas on how we are going to trick kids into learning this
 2. Have them criticize a local business.  
 3. Have them come up with a secret.  
 4. Have them come up with a low or zero cost strategy to test their assumption.
+
+##Resources
+1. fvi.edu/blog - we have a whole startup series of blog posts.  
+2. fvi.edu/coders_corner - check out the drill sergeant app.  
+3. Me. Don't hesitate to contact me.  
+4. The men who built America.  
+5. The lean Startup by Eric Ries  
+6. Growth Hacker Marketing by Ryan Holiday  
+7. Zero to One by Peter Thiel  
+8. Scrum: The Art of Doing Twice the Work in Half the Time, by Jeff Sutherland
