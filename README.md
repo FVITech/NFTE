@@ -119,6 +119,7 @@ Let's brainstorm some ideas on how we are going to trick kids into learning this
 2. Have them criticize a local business.  
 3. Have them come up with a secret.  
 4. Have them come up with a low or zero cost strategy to test their assumption.
+5. Sometimes more guidance is better - ask them for ideas on how a *restaurant* might become lean
 
 ##Resources
 1. fvi.edu/blog - we have a whole startup series of blog posts.  
