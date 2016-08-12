@@ -6,7 +6,7 @@
 * Currently have a software development practice. I've been CTO for hire for 3 startups.
 * 2 apps in the google play store, more websites than you can count.
 * I participate in a competitive coding website called codewars.com where I'm currently ranked 621 in the world out of somewhere between 200k and 300k users
-* Right now my main day job is I'm the curriculum developer and director of technology at **Florida Vocational Institute.** I don't wanna plug too much but at FVI our mission is to teach the world to code, we want to empower people with hard skills in technology. I have taught coding to kids as young as 14 and gals as old as in their 40s. I really believe that with my guidance and some persistence anyone can learn to code. 
+* Right now my main day job is I'm the curriculum developer and director of technology at **Florida Vocational Institute.** I don't wanna plug too much but at FVI our mission is to teach the world to code, we want to empower people with hard skills in technology. I have taught coding to kids as young as 14 and all the way up to people near their 50s. I really believe that with my guidance and some persistence anyone can learn to code. 
 * I was the IT director of Columbus High so I know what it is to deal with young students. I know your plight, and throughout this talk I will try to always bring it back to actionable things that can actually be applied in the classroom.
 * Why do I tell you this? I'm about to sell you a lot of ideas and I wanna establish credibility.
 
